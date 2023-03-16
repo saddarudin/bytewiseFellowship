@@ -1,0 +1,23 @@
+Task#2
+
+What is Data Mart?
+
+->It is smaller part of data warehouse.
+->It stores specific type of data like only the data of the products sold in a particular year.
+->It is subset of data warehouse.
+
+
+
+How it differ from data warehouse?
+->It is a database that stores that of an organization in the organized way.
+->It stores all the data of an organization like sales data, employees data etc.
+
+
+What is data lakehouse?
+
+Data lakehouse compaired to data warehouse can:
+->Video, audio and text file.
+->Support data science and ML work load.
+->Have support for both streaming and ELT.
+->Work with many open source format.
+->Data will generally reside in a data lake or blob stores.
