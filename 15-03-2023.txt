@@ -8,8 +8,8 @@ What is Data Mart?
 
 
 
-How it differ from data warehouse?
-->It is a database that stores that of an organization in the organized way.
+How it differs from data warehouse?
+->It is a database that stores data of an organization in the organized way.
 ->It stores all the data of an organization like sales data, employees data etc.
 
 
@@ -21,3 +21,16 @@ Data lakehouse compaired to data warehouse can:
 ->Have support for both streaming and ELT.
 ->Work with many open source format.
 ->Data will generally reside in a data lake or blob stores.
+
+
+What is data mesh?
+->A hot topic in enterprise software, data mesh is a new approach to thinking about data based on a distributed architecture for data management. The idea is to make data more accessible and available to business users by directly connecting data owners, data producers, and data consumers. Data mesh aims to improve business outcomes of data-centric solutions as well as drive adoption of modern data architectures.
+
+
+Difference between Data Lake and Data warehouse?
+Data Lake:
+1> Massive volumes of structured and unstructured data like ERP transactions and call logs can be stored cost affectively.
+
+2> Data is available for use far faster by keeping it in a raw state.
+
+3> A broader range of data can be analyzed in new ways to gain unexpected and previously unavailable insights.
