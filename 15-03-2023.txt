@@ -48,6 +48,12 @@ Data Warehouse:
 
 
 
+OLTP VS OLAP
+
+
+The two terms look similar but refer to different kind of systems. Online Transaction Processing (OLTP) caputes, 
+stores and processes data from transactions in real time.
+Online Analytical Processing (OLAP) uses complex queries to analyze aggregated historiacl data from OLTP systems.
 
 
 
@@ -80,11 +86,6 @@ Unstructured data:
 
 
 
-OLTP VS OLAP
-
-
-The two terms look similar but refer to different kind of systems. Online Transaction Processing (OLTP) caputes, stores and processes data from transactions in real time.
-Online Analytical Processing (OLAP) uses complex queries to analyze aggregated historiacl data from OLTP systems.
 
 Data engineer roles and responsibilities:
 
