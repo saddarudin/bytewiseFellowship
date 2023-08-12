@@ -1,4 +1,5 @@
-Task#2
+
+#2
 
 What is Data Mart?
 
@@ -32,7 +33,7 @@ Data mesh aims to improve business outcomes of data-centric solutions as well as
 
 
 
-Difference between Data Lake and Data warehouse?
+Difference between Data Lake and Data Warehouse?
 
 Data Lake:
 1> Massive volumes of structured and unstructured data like ERP transactions and call logs can be stored cost affectively.
